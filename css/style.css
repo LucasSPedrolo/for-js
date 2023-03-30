@@ -1,0 +1,15 @@
+body{
+    background-color: cadetblue;
+}
+
+.container{
+    margin: 3rem auto;
+    width: 70%;
+    background-color: #fff;
+    border-radius: 0.5rem;
+    padding: 0.7rem;
+}
+h1 {
+    display: block;
+    width: 100%;
+}
